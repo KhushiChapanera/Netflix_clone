@@ -1,6 +1,6 @@
 # Netflix Clone
 
-A responsive Netflix Clone built using HTML, CSS, and JavaScript.
+A responsive Netflix Clone built using HTML and  CSS.
 
 ## Features
 - Responsive design
@@ -12,4 +12,3 @@ A responsive Netflix Clone built using HTML, CSS, and JavaScript.
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
